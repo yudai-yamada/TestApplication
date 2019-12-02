@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">パチ簿</string>
+    <string name="move">MOVE</string>
+    <string name="sub">Sub Activity</string>
+    <string name="return_sub">RETURN</string>
+</resources>
